@@ -33,7 +33,11 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Sou um profissional apaixonado por tecno
 - Desenvolvido durante o curso de **Lógica de Programação com JavaScript** da Alura e ONE.
 - Um jogo divertido e interativo para adivinhar um número aleatório.
 
-### 2. Em Breve...
+### 2. [Encrypt Password 🔐](https://github.com/Juhz1k4/encrypt-password)
+- Um gerador de senhas criptografadas que avalia a força da senha e fornece feedback visual interativo.
+- **Tecnologias**: Python, Flask, HTML, CSS, JavaScript.
+
+### 3. Em Breve...
 - Projetos futuros para demonstrar o aprendizado em Python e front-end!
 
 ---
