@@ -32,9 +32,13 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Sou um profissional apaixonado por tecno
 
 ## 📂 **Projetos**  
 
-### 🎲 [Jogo do Número Secreto](https://github.com/Juhz1k4/jogo-numero-secreto-js)  
+### 🎲 [Jogo do Número Secreto](https://github.com/Juhz1k4/Game-Secret-Number)  
 - **Descrição**: Desenvolvido durante o curso de **Lógica de Programação com JavaScript** da Alura e ONE. Um jogo interativo onde o usuário tenta adivinhar um número secreto gerado aleatoriamente.  
 - **Tecnologias**: JavaScript, HTML5, CSS3.  
+
+### ✂️ [Pedra, Papel e Tesoura](https://github.com/Juhz1k4/Pedra-Papel-Tesoura)  
+- **Descrição**: Jogo clássico "Pedra, Papel e Tesoura", desenvolvido como projeto para aprimorar a interação entre **JavaScript e Python**. A aplicação permite jogar contra a máquina e possui integração entre frontend e backend para maior interatividade.  
+- **Tecnologias**: Python, Flask, JavaScript, HTML5, CSS3.  
 
 ### 🔐 [Encrypt Password](https://github.com/Juhz1k4/encrypt-password)  
 - **Descrição**: Um gerador de senhas criptografadas que avalia a força da senha e fornece feedback visual interativo.  
