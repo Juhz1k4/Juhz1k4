@@ -37,6 +37,8 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Sou um profissional apaixonado por tecno
 - Um gerador de senhas criptografadas que avalia a força da senha e fornece feedback visual interativo.
 - **Tecnologias**: Python, Flask, HTML, CSS, JavaScript.
 
+- 
+
 ### 3. Em Breve...
 - Projetos futuros para demonstrar o aprendizado em Python e front-end!
 
